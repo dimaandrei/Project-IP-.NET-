@@ -14,5 +14,10 @@ namespace ProiectIP
         {
             InitializeComponent();
         }
+
+        private void buttonAdaugaProducator_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

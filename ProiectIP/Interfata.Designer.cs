@@ -45,14 +45,19 @@ namespace ProiectIP
             this.labelTitlu = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.buttonLog = new ButtonStyle.StyledButton();
+            this.buttonModels = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // buttonSell
             // 
-            this.buttonSell.Location = new System.Drawing.Point(124, 546);
+            this.buttonSell.BackgroundImage = global::ProiectIP.Properties.Resources.sellBG;
+            this.buttonSell.Font = new System.Drawing.Font("Monotype Corsiva", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonSell.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.buttonSell.Location = new System.Drawing.Point(205, 547);
             this.buttonSell.Name = "buttonSell";
-            this.buttonSell.Size = new System.Drawing.Size(210, 72);
+            this.buttonSell.Padding = new System.Windows.Forms.Padding(0, 60, 0, 0);
+            this.buttonSell.Size = new System.Drawing.Size(210, 105);
             this.buttonSell.TabIndex = 0;
             this.buttonSell.Text = "Vinde";
             this.buttonSell.UseVisualStyleBackColor = true;
@@ -149,9 +154,12 @@ namespace ProiectIP
             // 
             // buttonIstoricVanzari
             // 
-            this.buttonIstoricVanzari.Location = new System.Drawing.Point(908, 546);
+            this.buttonIstoricVanzari.BackgroundImage = global::ProiectIP.Properties.Resources.histBG;
+            this.buttonIstoricVanzari.Font = new System.Drawing.Font("Monotype Corsiva", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonIstoricVanzari.Location = new System.Drawing.Point(521, 547);
             this.buttonIstoricVanzari.Name = "buttonIstoricVanzari";
-            this.buttonIstoricVanzari.Size = new System.Drawing.Size(210, 72);
+            this.buttonIstoricVanzari.Padding = new System.Windows.Forms.Padding(0, 0, 0, 40);
+            this.buttonIstoricVanzari.Size = new System.Drawing.Size(210, 105);
             this.buttonIstoricVanzari.TabIndex = 8;
             this.buttonIstoricVanzari.Text = "Istoric Vanzari";
             this.buttonIstoricVanzari.UseVisualStyleBackColor = true;
@@ -194,12 +202,27 @@ namespace ProiectIP
             this.buttonLog.UseVisualStyleBackColor = false;
             this.buttonLog.Click += new System.EventHandler(this.buttonLog_Click_1);
             // 
+            // buttonModels
+            // 
+            this.buttonModels.BackgroundImage = global::ProiectIP.Properties.Resources.carsBG;
+            this.buttonModels.Font = new System.Drawing.Font("Monotype Corsiva", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonModels.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.buttonModels.Location = new System.Drawing.Point(850, 547);
+            this.buttonModels.Name = "buttonModels";
+            this.buttonModels.Padding = new System.Windows.Forms.Padding(0, 60, 0, 0);
+            this.buttonModels.Size = new System.Drawing.Size(210, 105);
+            this.buttonModels.TabIndex = 12;
+            this.buttonModels.Text = "Modele";
+            this.buttonModels.UseVisualStyleBackColor = true;
+            this.buttonModels.Click += new System.EventHandler(this.buttonModels_Click);
+            // 
             // Interfata
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::ProiectIP.Properties.Resources.b5;
             this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.Controls.Add(this.buttonModels);
             this.Controls.Add(this.labelTitlu);
             this.Controls.Add(this.buttonLog);
             this.Controls.Add(this.buttonIstoricVanzari);
@@ -242,6 +265,7 @@ namespace ProiectIP
         private System.Windows.Forms.Label labelTitlu;
         private System.Windows.Forms.Panel panel1;
         private ButtonStyle.StyledButton buttonLog;
+        private System.Windows.Forms.Button buttonModels;
     }
 }
 

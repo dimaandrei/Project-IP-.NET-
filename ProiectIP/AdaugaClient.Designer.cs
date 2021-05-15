@@ -44,85 +44,100 @@ namespace ProiectIP
             // labelNume
             // 
             this.labelNume.AutoSize = true;
-            this.labelNume.Location = new System.Drawing.Point(85, 116);
+            this.labelNume.BackColor = System.Drawing.Color.Transparent;
+            this.labelNume.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelNume.Location = new System.Drawing.Point(0, 110);
             this.labelNume.Name = "labelNume";
-            this.labelNume.Size = new System.Drawing.Size(63, 13);
+            this.labelNume.Size = new System.Drawing.Size(89, 14);
             this.labelNume.TabIndex = 0;
-            this.labelNume.Text = "Nume client";
+            this.labelNume.Text = "Nume client:";
             // 
             // labelTelefon
             // 
             this.labelTelefon.AutoSize = true;
-            this.labelTelefon.Location = new System.Drawing.Point(108, 152);
+            this.labelTelefon.BackColor = System.Drawing.Color.Transparent;
+            this.labelTelefon.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTelefon.Location = new System.Drawing.Point(23, 146);
             this.labelTelefon.Name = "labelTelefon";
-            this.labelTelefon.Size = new System.Drawing.Size(43, 13);
+            this.labelTelefon.Size = new System.Drawing.Size(61, 14);
             this.labelTelefon.TabIndex = 1;
-            this.labelTelefon.Text = "Telefon";
+            this.labelTelefon.Text = "Telefon:";
             // 
             // labelTipPlata
             // 
             this.labelTipPlata.AutoSize = true;
-            this.labelTipPlata.Location = new System.Drawing.Point(102, 184);
+            this.labelTipPlata.BackColor = System.Drawing.Color.Transparent;
+            this.labelTipPlata.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTipPlata.Location = new System.Drawing.Point(17, 178);
             this.labelTipPlata.Name = "labelTipPlata";
-            this.labelTipPlata.Size = new System.Drawing.Size(48, 13);
+            this.labelTipPlata.Size = new System.Drawing.Size(70, 14);
             this.labelTipPlata.TabIndex = 2;
-            this.labelTipPlata.Text = "Tip plata";
+            this.labelTipPlata.Text = "Tip plata:";
             // 
             // labelMail
             // 
             this.labelMail.AutoSize = true;
-            this.labelMail.Location = new System.Drawing.Point(121, 217);
+            this.labelMail.BackColor = System.Drawing.Color.Transparent;
+            this.labelMail.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelMail.Location = new System.Drawing.Point(36, 211);
             this.labelMail.Name = "labelMail";
-            this.labelMail.Size = new System.Drawing.Size(26, 13);
+            this.labelMail.Size = new System.Drawing.Size(42, 14);
             this.labelMail.TabIndex = 3;
-            this.labelMail.Text = "Mail";
+            this.labelMail.Text = "Mail:";
             // 
             // textBoxNume
             // 
-            this.textBoxNume.Location = new System.Drawing.Point(162, 114);
+            this.textBoxNume.BackColor = System.Drawing.Color.SaddleBrown;
+            this.textBoxNume.Location = new System.Drawing.Point(93, 108);
             this.textBoxNume.Name = "textBoxNume";
-            this.textBoxNume.Size = new System.Drawing.Size(399, 20);
+            this.textBoxNume.Size = new System.Drawing.Size(161, 20);
             this.textBoxNume.TabIndex = 4;
             // 
             // textBoxMail
             // 
-            this.textBoxMail.Location = new System.Drawing.Point(162, 214);
+            this.textBoxMail.BackColor = System.Drawing.Color.SaddleBrown;
+            this.textBoxMail.Location = new System.Drawing.Point(93, 208);
             this.textBoxMail.Name = "textBoxMail";
-            this.textBoxMail.Size = new System.Drawing.Size(399, 20);
+            this.textBoxMail.Size = new System.Drawing.Size(161, 20);
             this.textBoxMail.TabIndex = 5;
             // 
             // textBoxTelefon
             // 
-            this.textBoxTelefon.Location = new System.Drawing.Point(162, 149);
+            this.textBoxTelefon.BackColor = System.Drawing.Color.SaddleBrown;
+            this.textBoxTelefon.Location = new System.Drawing.Point(93, 143);
             this.textBoxTelefon.Name = "textBoxTelefon";
-            this.textBoxTelefon.Size = new System.Drawing.Size(399, 20);
+            this.textBoxTelefon.Size = new System.Drawing.Size(161, 20);
             this.textBoxTelefon.TabIndex = 8;
             // 
             // comboBoxTipPlata
             // 
+            this.comboBoxTipPlata.BackColor = System.Drawing.Color.SaddleBrown;
             this.comboBoxTipPlata.FormattingEnabled = true;
-            this.comboBoxTipPlata.Location = new System.Drawing.Point(162, 181);
+            this.comboBoxTipPlata.Location = new System.Drawing.Point(93, 175);
             this.comboBoxTipPlata.Name = "comboBoxTipPlata";
-            this.comboBoxTipPlata.Size = new System.Drawing.Size(399, 21);
+            this.comboBoxTipPlata.Size = new System.Drawing.Size(161, 21);
             this.comboBoxTipPlata.TabIndex = 9;
             // 
             // buttonAdaugaClient
             // 
-            this.buttonAdaugaClient.Location = new System.Drawing.Point(261, 272);
+            this.buttonAdaugaClient.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.buttonAdaugaClient.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonAdaugaClient.Location = new System.Drawing.Point(36, 257);
             this.buttonAdaugaClient.Name = "buttonAdaugaClient";
-            this.buttonAdaugaClient.Size = new System.Drawing.Size(177, 29);
+            this.buttonAdaugaClient.Size = new System.Drawing.Size(191, 40);
             this.buttonAdaugaClient.TabIndex = 10;
             this.buttonAdaugaClient.Text = "Adauga client";
-            this.buttonAdaugaClient.UseVisualStyleBackColor = true;
+            this.buttonAdaugaClient.UseVisualStyleBackColor = false;
             this.buttonAdaugaClient.Click += new System.EventHandler(this.buttonAdaugaClient_Click);
             // 
             // labelTitlu
             // 
             this.labelTitlu.AutoSize = true;
-            this.labelTitlu.Font = new System.Drawing.Font("Segoe UI", 30F);
-            this.labelTitlu.Location = new System.Drawing.Point(261, 22);
+            this.labelTitlu.BackColor = System.Drawing.Color.Transparent;
+            this.labelTitlu.Font = new System.Drawing.Font("Monotype Corsiva", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTitlu.Location = new System.Drawing.Point(29, 37);
             this.labelTitlu.Name = "labelTitlu";
-            this.labelTitlu.Size = new System.Drawing.Size(206, 54);
+            this.labelTitlu.Size = new System.Drawing.Size(211, 57);
             this.labelTitlu.TabIndex = 11;
             this.labelTitlu.Text = "Client nou";
             // 
@@ -130,7 +145,8 @@ namespace ProiectIP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(686, 390);
+            this.BackgroundImage = global::ProiectIP.Properties.Resources.clientBG;
+            this.ClientSize = new System.Drawing.Size(686, 391);
             this.Controls.Add(this.labelTitlu);
             this.Controls.Add(this.buttonAdaugaClient);
             this.Controls.Add(this.comboBoxTipPlata);
@@ -141,6 +157,8 @@ namespace ProiectIP
             this.Controls.Add(this.labelTipPlata);
             this.Controls.Add(this.labelTelefon);
             this.Controls.Add(this.labelNume);
+            this.MaximumSize = new System.Drawing.Size(702, 430);
+            this.MinimumSize = new System.Drawing.Size(702, 430);
             this.Name = "AdaugaClient";
             this.Text = "AdaugaClient";
             this.ResumeLayout(false);

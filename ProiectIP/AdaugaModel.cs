@@ -14,5 +14,15 @@ namespace ProiectIP
         {
             InitializeComponent();
         }
+
+        private void AdaugaModel_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelBuget_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

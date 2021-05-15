@@ -21,7 +21,34 @@ namespace ProiectIP
             InitializeComponent();
             this.buttonIstoricVanzari.Visible = false;
             this.buttonSell.Visible = false;
+            this.buttonModels.Visible = false;
             this.textBoxPass.PasswordChar = '*';
+        }
+
+        private void buttonLog_Click_1(object sender, EventArgs e)
+        {
+            if (textBoxUser.Text == "test" && textBoxPass.Text == "test")
+            {
+
+                buttonLog.Visible = false;
+                labelPass.Visible = false;
+                labelUser.Visible = false;
+                textBoxPass.Visible = false;
+                textBoxUser.Visible = false;
+                buttonIstoricVanzari.Visible = true;
+                this.buttonSell.Visible = true;
+                this.buttonModels.Visible = true;
+                //OracleConnection conn = new OracleConnection(@"Data Source=localhost;User ID=andreidima;Password=********");
+                // conn.Open();
+                //MessageBox.Show("Connected to Oracle" + conn.ServerVersion);
+                //DataTable dtbl = new DataTable();
+                //OracleDataAdapter orcl = new OracleDataAdapter("", conn);
+                //orcl.Fill(dtbl);
+            }
+            else
+            {
+                MessageBox.Show("User sau parola incorecta!", "Eroare!");
+            }
         }
 
         private void buttonSell_Click(object sender, EventArgs e)
@@ -45,29 +72,9 @@ namespace ProiectIP
 
         }
 
-        private void buttonLog_Click_1(object sender, EventArgs e)
+        private void buttonModels_Click(object sender, EventArgs e)
         {
-            if (textBoxUser.Text == "test" && textBoxPass.Text == "test")
-            {
 
-                buttonLog.Visible = false;
-                labelPass.Visible = false;
-                labelUser.Visible = false;
-                textBoxPass.Visible = false;
-                textBoxUser.Visible = false;
-                buttonIstoricVanzari.Visible = true;
-                this.buttonSell.Visible = true;
-                //OracleConnection conn = new OracleConnection(@"Data Source=localhost;User ID=andreidima;Password=********");
-                // conn.Open();
-                //MessageBox.Show("Connected to Oracle" + conn.ServerVersion);
-                //DataTable dtbl = new DataTable();
-                //OracleDataAdapter orcl = new OracleDataAdapter("", conn);
-                //orcl.Fill(dtbl);
-            }
-            else
-            {
-                MessageBox.Show("User sau parola incorecta!", "Eroare!");
-            }
         }
     }
 }

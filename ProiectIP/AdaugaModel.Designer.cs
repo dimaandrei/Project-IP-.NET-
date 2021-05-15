@@ -43,134 +43,174 @@ namespace ProiectIP
             this.labelTransmisie = new System.Windows.Forms.Label();
             this.comboBoxInterior = new System.Windows.Forms.ComboBox();
             this.labelInterior = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCaiPutere)).BeginInit();
             this.SuspendLayout();
             // 
             // labelTitlu
             // 
             this.labelTitlu.AutoSize = true;
-            this.labelTitlu.Font = new System.Drawing.Font("Segoe UI", 30F);
-            this.labelTitlu.Location = new System.Drawing.Point(276, 40);
+            this.labelTitlu.BackColor = System.Drawing.Color.DarkMagenta;
+            this.labelTitlu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.labelTitlu.Font = new System.Drawing.Font("Monotype Corsiva", 30F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTitlu.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.labelTitlu.Location = new System.Drawing.Point(255, 17);
+            this.labelTitlu.Margin = new System.Windows.Forms.Padding(3, 20, 3, 0);
+            this.labelTitlu.MaximumSize = new System.Drawing.Size(184, 60);
+            this.labelTitlu.MinimumSize = new System.Drawing.Size(184, 60);
             this.labelTitlu.Name = "labelTitlu";
-            this.labelTitlu.Size = new System.Drawing.Size(217, 54);
+            this.labelTitlu.Size = new System.Drawing.Size(184, 60);
             this.labelTitlu.TabIndex = 21;
             this.labelTitlu.Text = "Model nou";
             // 
             // buttonAdaugaModel
             // 
-            this.buttonAdaugaModel.Location = new System.Drawing.Point(276, 315);
+            this.buttonAdaugaModel.BackColor = System.Drawing.Color.DodgerBlue;
+            this.buttonAdaugaModel.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonAdaugaModel.ForeColor = System.Drawing.Color.Yellow;
+            this.buttonAdaugaModel.Location = new System.Drawing.Point(262, 97);
             this.buttonAdaugaModel.Name = "buttonAdaugaModel";
-            this.buttonAdaugaModel.Size = new System.Drawing.Size(177, 29);
+            this.buttonAdaugaModel.Size = new System.Drawing.Size(168, 41);
             this.buttonAdaugaModel.TabIndex = 20;
             this.buttonAdaugaModel.Text = "Adauga model";
-            this.buttonAdaugaModel.UseVisualStyleBackColor = true;
+            this.buttonAdaugaModel.UseVisualStyleBackColor = false;
             // 
             // comboBoxTipCombustibil
             // 
+            this.comboBoxTipCombustibil.BackColor = System.Drawing.Color.AntiqueWhite;
             this.comboBoxTipCombustibil.FormattingEnabled = true;
-            this.comboBoxTipCombustibil.Location = new System.Drawing.Point(172, 164);
+            this.comboBoxTipCombustibil.Location = new System.Drawing.Point(118, 233);
             this.comboBoxTipCombustibil.Name = "comboBoxTipCombustibil";
-            this.comboBoxTipCombustibil.Size = new System.Drawing.Size(399, 21);
+            this.comboBoxTipCombustibil.Size = new System.Drawing.Size(164, 21);
             this.comboBoxTipCombustibil.TabIndex = 19;
             // 
             // textBoxNume
             // 
-            this.textBoxNume.Location = new System.Drawing.Point(172, 96);
+            this.textBoxNume.BackColor = System.Drawing.Color.AntiqueWhite;
+            this.textBoxNume.Location = new System.Drawing.Point(118, 165);
             this.textBoxNume.Name = "textBoxNume";
-            this.textBoxNume.Size = new System.Drawing.Size(399, 20);
+            this.textBoxNume.Size = new System.Drawing.Size(164, 20);
             this.textBoxNume.TabIndex = 16;
             // 
             // labelCaiPutere
             // 
             this.labelCaiPutere.AutoSize = true;
-            this.labelCaiPutere.Location = new System.Drawing.Point(109, 198);
+            this.labelCaiPutere.BackColor = System.Drawing.Color.Transparent;
+            this.labelCaiPutere.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelCaiPutere.Location = new System.Drawing.Point(428, 168);
             this.labelCaiPutere.Name = "labelCaiPutere";
-            this.labelCaiPutere.Size = new System.Drawing.Size(58, 13);
+            this.labelCaiPutere.Size = new System.Drawing.Size(78, 14);
             this.labelCaiPutere.TabIndex = 15;
             this.labelCaiPutere.Text = "Cai putere:";
             // 
             // labelCombustibil
             // 
             this.labelCombustibil.AutoSize = true;
-            this.labelCombustibil.Location = new System.Drawing.Point(85, 166);
+            this.labelCombustibil.BackColor = System.Drawing.Color.Transparent;
+            this.labelCombustibil.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelCombustibil.Location = new System.Drawing.Point(-1, 236);
             this.labelCombustibil.Name = "labelCombustibil";
-            this.labelCombustibil.Size = new System.Drawing.Size(80, 13);
+            this.labelCombustibil.Size = new System.Drawing.Size(114, 14);
             this.labelCombustibil.TabIndex = 14;
             this.labelCombustibil.Text = "Tip combustibil:";
             // 
             // labelModel
             // 
             this.labelModel.AutoSize = true;
-            this.labelModel.Location = new System.Drawing.Point(95, 99);
+            this.labelModel.BackColor = System.Drawing.Color.Transparent;
+            this.labelModel.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelModel.ForeColor = System.Drawing.Color.Black;
+            this.labelModel.Location = new System.Drawing.Point(21, 168);
             this.labelModel.Name = "labelModel";
-            this.labelModel.Size = new System.Drawing.Size(69, 13);
+            this.labelModel.Size = new System.Drawing.Size(91, 14);
             this.labelModel.TabIndex = 12;
             this.labelModel.Text = "Nume model:";
             // 
             // comboBox1
             // 
+            this.comboBox1.BackColor = System.Drawing.Color.AntiqueWhite;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(172, 130);
+            this.comboBox1.Location = new System.Drawing.Point(118, 199);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(399, 21);
+            this.comboBox1.Size = new System.Drawing.Size(164, 21);
             this.comboBox1.TabIndex = 23;
             // 
             // labelBuget
             // 
             this.labelBuget.AutoSize = true;
-            this.labelBuget.Location = new System.Drawing.Point(112, 133);
+            this.labelBuget.BackColor = System.Drawing.Color.Transparent;
+            this.labelBuget.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelBuget.Location = new System.Drawing.Point(38, 202);
             this.labelBuget.Name = "labelBuget";
-            this.labelBuget.Size = new System.Drawing.Size(55, 13);
+            this.labelBuget.Size = new System.Drawing.Size(74, 14);
             this.labelBuget.TabIndex = 22;
             this.labelBuget.Text = "Tip buget:";
+            this.labelBuget.Click += new System.EventHandler(this.labelBuget_Click);
             // 
             // numericUpDownCaiPutere
             // 
-            this.numericUpDownCaiPutere.Location = new System.Drawing.Point(172, 196);
+            this.numericUpDownCaiPutere.BackColor = System.Drawing.Color.AntiqueWhite;
+            this.numericUpDownCaiPutere.Location = new System.Drawing.Point(510, 165);
             this.numericUpDownCaiPutere.Name = "numericUpDownCaiPutere";
-            this.numericUpDownCaiPutere.Size = new System.Drawing.Size(399, 20);
+            this.numericUpDownCaiPutere.Size = new System.Drawing.Size(164, 20);
             this.numericUpDownCaiPutere.TabIndex = 24;
             this.numericUpDownCaiPutere.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // comboBoxTransmisie
             // 
+            this.comboBoxTransmisie.BackColor = System.Drawing.Color.AntiqueWhite;
             this.comboBoxTransmisie.FormattingEnabled = true;
-            this.comboBoxTransmisie.Location = new System.Drawing.Point(172, 229);
+            this.comboBoxTransmisie.Location = new System.Drawing.Point(510, 198);
             this.comboBoxTransmisie.Name = "comboBoxTransmisie";
-            this.comboBoxTransmisie.Size = new System.Drawing.Size(399, 21);
+            this.comboBoxTransmisie.Size = new System.Drawing.Size(164, 21);
             this.comboBoxTransmisie.TabIndex = 26;
             // 
             // labelTransmisie
             // 
             this.labelTransmisie.AutoSize = true;
-            this.labelTransmisie.Location = new System.Drawing.Point(108, 231);
+            this.labelTransmisie.BackColor = System.Drawing.Color.Transparent;
+            this.labelTransmisie.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTransmisie.Location = new System.Drawing.Point(428, 201);
             this.labelTransmisie.Name = "labelTransmisie";
-            this.labelTransmisie.Size = new System.Drawing.Size(60, 13);
+            this.labelTransmisie.Size = new System.Drawing.Size(81, 14);
             this.labelTransmisie.TabIndex = 25;
             this.labelTransmisie.Text = "Transmisie:";
             // 
             // comboBoxInterior
             // 
+            this.comboBoxInterior.BackColor = System.Drawing.Color.AntiqueWhite;
             this.comboBoxInterior.FormattingEnabled = true;
-            this.comboBoxInterior.Location = new System.Drawing.Point(172, 264);
+            this.comboBoxInterior.Location = new System.Drawing.Point(510, 233);
             this.comboBoxInterior.Name = "comboBoxInterior";
-            this.comboBoxInterior.Size = new System.Drawing.Size(399, 21);
+            this.comboBoxInterior.Size = new System.Drawing.Size(164, 21);
             this.comboBoxInterior.TabIndex = 28;
             // 
             // labelInterior
             // 
             this.labelInterior.AutoSize = true;
-            this.labelInterior.Location = new System.Drawing.Point(123, 267);
+            this.labelInterior.BackColor = System.Drawing.Color.Transparent;
+            this.labelInterior.Font = new System.Drawing.Font("Mongolian Baiti", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelInterior.Location = new System.Drawing.Point(449, 236);
             this.labelInterior.Name = "labelInterior";
-            this.labelInterior.Size = new System.Drawing.Size(42, 13);
+            this.labelInterior.Size = new System.Drawing.Size(60, 14);
             this.labelInterior.TabIndex = 27;
             this.labelInterior.Text = "Interior:";
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.MediumVioletRed;
+            this.panel1.Location = new System.Drawing.Point(-21, 29);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(731, 48);
+            this.panel1.TabIndex = 29;
             // 
             // AdaugaModel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(686, 390);
+            this.BackgroundImage = global::ProiectIP.Properties.Resources.modelBG;
+            this.ClientSize = new System.Drawing.Size(686, 391);
+            this.Controls.Add(this.labelTitlu);
             this.Controls.Add(this.comboBoxInterior);
             this.Controls.Add(this.labelInterior);
             this.Controls.Add(this.comboBoxTransmisie);
@@ -178,15 +218,18 @@ namespace ProiectIP
             this.Controls.Add(this.numericUpDownCaiPutere);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.labelBuget);
-            this.Controls.Add(this.labelTitlu);
             this.Controls.Add(this.buttonAdaugaModel);
             this.Controls.Add(this.comboBoxTipCombustibil);
             this.Controls.Add(this.textBoxNume);
             this.Controls.Add(this.labelCaiPutere);
             this.Controls.Add(this.labelCombustibil);
             this.Controls.Add(this.labelModel);
+            this.Controls.Add(this.panel1);
+            this.MaximumSize = new System.Drawing.Size(702, 430);
+            this.MinimumSize = new System.Drawing.Size(702, 430);
             this.Name = "AdaugaModel";
             this.Text = "AdaugaModel";
+            this.Load += new System.EventHandler(this.AdaugaModel_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCaiPutere)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -209,5 +252,6 @@ namespace ProiectIP
         private System.Windows.Forms.Label labelTransmisie;
         private System.Windows.Forms.ComboBox comboBoxInterior;
         private System.Windows.Forms.Label labelInterior;
+        private System.Windows.Forms.Panel panel1;
     }
 }
