@@ -1,0 +1,6 @@
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\bin\Debug\ButtonStyle.dll
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\bin\Debug\ButtonStyle.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.csproj.CoreCompileInputs.cache
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.dll
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.csprojAssemblyReference.cache

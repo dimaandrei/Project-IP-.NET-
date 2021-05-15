@@ -1,0 +1,87 @@
+--INSERT TABELA PRODUCATOR--
+
+INSERT INTO producator VALUES(NULL, 'Volkswagen', 'Germania', 'VAG', '0231119223', 'volks@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Audi', 'Germania', 'VAG', '0231119224', 'audi@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Dacia', 'Romania', 'Renault', '0332119112', 'dacia@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Renault', 'Franta', 'Renault', '0442887664', 'renault@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'BMW', 'Germania', 'BMW', '0231886772', 'bmw@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Toyota', 'Japonia', 'Toyota', '0442990112', 'toyota@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Lexus', 'Japonia', 'Toyota', '0442990113', 'lexus@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Ford', 'USA', 'Ford', '0331404202', 'ford@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Jaguar', 'United Kingdom', 'Tata', '0112332442', 'jaguar@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Nissan', 'Japonia', 'Nissan', '0442990002', 'nissan@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Mercedes Benz', 'Germania', 'Daimler', '0231121343', 'mercedes@yahoo.com');
+INSERT INTO producator VALUES(NULL, 'Opel', 'Germania', 'Stellantis', '0231004113', 'opel@yahoo.com');
+
+--INSERT TABELA MODEL MASINA--
+
+INSERT INTO model_masina VALUES('Golf VII', 'medium', 'diesel', 150, 'automata', 'combo', (SELECT id_producator FROM producator WHERE nume_marca = 'Volkswagen'));
+INSERT INTO model_masina VALUES('Q4 e-tron', 'high', 'electric', 299, 'automata', 'combo', (SELECT id_producator FROM producator WHERE nume_marca = 'Audi'));
+INSERT INTO model_masina VALUES('Logan', 'low', 'benzina', 66, 'manuala', 'textil', (SELECT id_producator FROM producator WHERE nume_marca = 'Dacia'));
+INSERT INTO model_masina VALUES('Logan TCe 100', 'low', 'gpl', 66, 'manuala', 'textil', (SELECT id_producator FROM producator WHERE nume_marca = 'Dacia'));
+INSERT INTO model_masina VALUES('Megane', 'low', 'benzina', 105, 'manuala', 'textil', (SELECT id_producator FROM producator WHERE nume_marca = 'Renault'));
+INSERT INTO model_masina VALUES('X5 Xdrive', 'high', 'hibrid', 313, 'automata', 'piele', (SELECT id_producator FROM producator WHERE nume_marca = 'BMW'));
+INSERT INTO model_masina VALUES('Land Cruiser', 'high', 'diesel', 177, 'automata', 'combo', (SELECT id_producator FROM producator WHERE nume_marca = 'Toyota'));
+INSERT INTO model_masina VALUES('Seria NX', 'high', 'hibrid', 155, 'automata', 'combo', (SELECT id_producator FROM producator WHERE nume_marca = 'Lexus'));
+INSERT INTO model_masina VALUES('Mustang Mach-e', 'high', 'electric', 337, 'automata', 'combo', (SELECT id_producator FROM producator WHERE nume_marca = 'Ford'));
+INSERT INTO model_masina VALUES('F-Pache', 'high', 'benzina', 250, 'automata', 'piele', (SELECT id_producator FROM producator WHERE nume_marca = 'Jaguar'));
+INSERT INTO model_masina VALUES('GT-R Standard', 'high', 'benzina', 570, 'automata', 'combo', (SELECT id_producator FROM producator WHERE nume_marca = 'Nissan'));
+INSERT INTO model_masina VALUES('GLE 450', 'high', 'benzina', 367, 'automata', 'piele', (SELECT id_producator FROM producator WHERE nume_marca = 'Mercedes Benz'));
+INSERT INTO model_masina VALUES('GrandLand X', 'medium', 'diesel', 130, 'manuala', 'textil', (SELECT id_producator FROM producator WHERE nume_marca = 'Opel'));
+
+--INSERT TABELA CLIENT--
+
+INSERT INTO client VALUES(NULL, 'Melinte Alexandru', '0754223994', 'card', 'alex.melinte@yahoo.com');
+INSERT INTO client VALUES(NULL, 'Dima Andrei', '0744192223', 'card', 'andrei.dima@yahoo.com');
+INSERT INTO client VALUES(NULL, 'Tizu Matei', '0774123987', 'card', 'matei.tizu@yahoo.com');
+INSERT INTO client VALUES(NULL, 'Chiper Alexandru', '0784562398', 'card', 'alex.chiper@yahoo.com');
+INSERT INTO client VALUES(NULL, 'Popescu Ionel', '0765231288', 'cash', 'ionel.popescu@yahoo.com');
+INSERT INTO client VALUES(NULL, 'Zamfir Maria', '0742993002', 'cash', 'maria.zamfir@yahoo.com');
+INSERT INTO client VALUES(NULL, 'Boroboanta Laur', '0712345098', 'cash', 'laur.baraboanta@yahoo.com');
+INSERT INTO client VALUES(NULL, 'Pricop Ionela', '0745134851', 'cash', 'ionela.pricop@yahoo.com');
+
+--INSERT TABELA FACTURA--
+
+INSERT INTO factura VALUES(NULL, 'fizica', '1HGCM82633A004352', '72000', TO_DATE('02-03-2021', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Melinte Alexandru'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Audi' and tip_combustibil = 'electric')));
+INSERT INTO factura VALUES(NULL, 'juridica', '2ABCD12343B001123', '250000', TO_DATE('01-10-2020', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Dima Andrei'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Ford' and tip_combustibil = 'electric')));
+INSERT INTO factura VALUES(NULL, 'fizica', '3HJKD10234K012462', '80000', TO_DATE('04-04-2021', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Tizu Matei'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Lexus' and tip_combustibil = 'hibrid')));
+INSERT INTO factura VALUES(NULL, 'fizica', '5OIPL56723M021390', '70000', TO_DATE('21-11-2020', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Chiper Alexandru'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Toyota' and tip_combustibil = 'diesel')));
+INSERT INTO factura VALUES(NULL, 'juridica', '1BHJS24513T412134', '12000', TO_DATE('10-08-2020', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Popescu Ionel'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Dacia' and tip_combustibil = 'gpl')));
+INSERT INTO factura VALUES(NULL, 'fizica', '6CVBL44523D422456', '200000', TO_DATE('01-03-2019', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Zamfir Maria'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'BMW' and tip_combustibil = 'hibrid')));
+INSERT INTO factura VALUES(NULL, 'juridica', '2DRDS89087C138764', '450000', TO_DATE('18-07-2020', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Boroboanta Laur'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Nissan' and tip_combustibil = 'benzina')));
+INSERT INTO factura VALUES(NULL, 'fizica', '7POUY11322B210013', '20000', TO_DATE('01-05-2018', ' DD-MM-YYYY'), 
+	(SELECT id_client FROM client WHERE nume_client = 'Pricop Ionela'),
+	(SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Opel' and tip_combustibil = 'diesel')));
+	
+--INSERT TABELA CLIENT-MODEL--
+
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Audi' and tip_combustibil = 'electric')),
+								(SELECT id_client FROM client WHERE nume_client = 'Melinte Alexandru'));
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Ford' and tip_combustibil = 'electric')),
+								(SELECT id_client FROM client WHERE nume_client = 'Dima Andrei'));
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Lexus' and tip_combustibil = 'hibrid')),
+								(SELECT id_client FROM client WHERE nume_client = 'Tizu Matei'));
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Toyota' and tip_combustibil = 'diesel')),
+								(SELECT id_client FROM client WHERE nume_client = 'Chiper Alexandru'));
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Dacia' and tip_combustibil = 'gpl')),
+								(SELECT id_client FROM client WHERE nume_client = 'Popescu Ionel'));
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'BMW' and tip_combustibil = 'hibrid')),
+								(SELECT id_client FROM client WHERE nume_client = 'Zamfir Maria'));
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Nissan' and tip_combustibil = 'benzina')),
+								(SELECT id_client FROM client WHERE nume_client = 'Boroboanta Laur'));
+INSERT INTO model_client VALUES((SELECT model FROM model_masina WHERE id_producator = (SELECT id_producator FROM producator WHERE nume_marca = 'Opel' and tip_combustibil = 'diesel')),
+								(SELECT id_client FROM client WHERE nume_client = 'Pricop Ionela'));								
