@@ -14,6 +14,8 @@ namespace ProiectIP
     public partial class Interfata : Form
     {
         private Form _vanzare = new Vanzare();
+        private Form _istoric = new Istoric();
+        private Form _modele = new Modele();
 
         public Interfata()
         {
@@ -59,7 +61,7 @@ namespace ProiectIP
        
         private void buttonIstoricVanzari_Click(object sender, EventArgs e)
         {
-
+            _istoric.ShowDialog(this);
         }
 
         private void Interfata_Load(object sender, EventArgs e)
@@ -74,7 +76,7 @@ namespace ProiectIP
 
         private void buttonModels_Click(object sender, EventArgs e)
         {
-
+            _modele.ShowDialog(this);
         }
     }
 }

@@ -103,9 +103,29 @@ namespace ProiectIP.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap istoricBG {
+            get {
+                object obj = ResourceManager.GetObject("istoricBG", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap modelBG {
             get {
                 object obj = ResourceManager.GetObject("modelBG", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap modeleBG {
+            get {
+                object obj = ResourceManager.GetObject("modeleBG", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

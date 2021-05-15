@@ -122,6 +122,7 @@ namespace ProiectIP
             // 
             this.buttonAdaugaClient.BackColor = System.Drawing.Color.DarkSlateGray;
             this.buttonAdaugaClient.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonAdaugaClient.ForeColor = System.Drawing.Color.White;
             this.buttonAdaugaClient.Location = new System.Drawing.Point(36, 257);
             this.buttonAdaugaClient.Name = "buttonAdaugaClient";
             this.buttonAdaugaClient.Size = new System.Drawing.Size(191, 40);

@@ -49,3 +49,24 @@ D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.Co
 D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
 D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.exe
 D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ButtonStyle.dll
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ButtonStyle.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Resource1.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Istoric.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Modele.resources
