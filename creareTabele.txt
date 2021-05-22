@@ -24,7 +24,7 @@ ALTER TABLE client
 
 ALTER TABLE client
     ADD CONSTRAINT numar_tlf_clinet_ck CHECK ( REGEXP_LIKE ( numar_telefon_client,
-                                                             '^[0-9]+$' ) );
+                                                             '^[0-9]+$' ) AND length (numar_telefon_client) = 10);
 
 ALTER TABLE client
     ADD CONSTRAINT tip_plata CHECK ( tip_plata IN ( 'card', 'cash' ) );
@@ -122,12 +122,12 @@ ALTER TABLE producator
 
 ALTER TABLE producator
     ADD CONSTRAINT grup_auto_ck CHECK ( REGEXP_LIKE ( grup_auto,
-                                                      '^[A-Za-z0-9]+$' )
+                                                      '^[A-Za-z0-9 ]+$' )
                                         AND length(grup_auto) > 2 );
 
 ALTER TABLE producator
     ADD CONSTRAINT numar_telefon_ck CHECK ( REGEXP_LIKE ( numar_telefon,
-                                                          '^[0-9]+$' ) );
+                                                          '^[0-9]+$' ) AND length(numar_telefon) = 10 );
 
 ALTER TABLE producator
     ADD CONSTRAINT adresa_mail_ck CHECK ( REGEXP_LIKE ( adresa_mail,
