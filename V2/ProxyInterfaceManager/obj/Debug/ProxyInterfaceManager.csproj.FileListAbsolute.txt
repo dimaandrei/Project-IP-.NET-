@@ -1,0 +1,9 @@
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\obj\Debug\ProxyInterfaceManager.csprojAssemblyReference.cache
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\obj\Debug\ProxyInterfaceManager.csproj.CoreCompileInputs.cache
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\bin\Debug\ProxyInterfaceManager.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\bin\Debug\ProxyInterfaceManager.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\bin\Debug\Cryptography.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\bin\Debug\Cryptography.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\obj\Debug\ProxyInterfaceManager.csproj.CopyComplete
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\obj\Debug\ProxyInterfaceManager.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProxyInterfaceManager\obj\Debug\ProxyInterfaceManager.pdb

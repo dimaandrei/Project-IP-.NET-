@@ -1,0 +1,142 @@
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Desktop\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\alexm\Desktop\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\alexm\Desktop\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\obj\Debug\ProiectIP.Resource1.resources
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\bin\Debug\ButtonStyle.dll
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\bin\Debug\ButtonStyle.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\bin\Debug\ButtonStyle.dll
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\bin\Debug\ButtonStyle.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Resource1.resources
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\Andrei\Facultate\AN3SEM2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ButtonStyle.dll
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\bin\Debug\ButtonStyle.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Resource1.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Istoric.resources
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\obj\Debug\ProiectIP.Modele.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\bin\Debug\ButtonStyle.dll
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\bin\Debug\ButtonStyle.pdb
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Istoric.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Modele.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Resource1.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\matry\Desktop\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\bin\Debug\ButtonStyle.dll
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\bin\Debug\ButtonStyle.pdb
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Istoric.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Modele.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Resource1.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\alexm\Downloads\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaClient.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaModel.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.AdaugaProducator.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Istoric.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Modele.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Resource1.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.Vanzare.resources
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\ButtonStyle.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\DatabaseConnection.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\ProxyInterfaceManager.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\Cryptography.dll
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\DatabaseConnection.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\DatabaseConnection.dll.config
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\ProxyInterfaceManager.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\ButtonStyle.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\bin\Debug\Cryptography.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
