@@ -1,0 +1,12 @@
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\bin\Debug\ButtonStyle.dll
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\bin\Debug\ButtonStyle.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.csproj.CoreCompileInputs.cache
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.dll
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.pdb
+D:\Andrei\Facultate\AN3SEM2\IP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.csprojAssemblyReference.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\ButtonStyle\bin\Debug\ButtonStyle.dll
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\ButtonStyle\bin\Debug\ButtonStyle.pdb
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.csprojAssemblyReference.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.csproj.CoreCompileInputs.cache
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.dll
+D:\Facultate\ANUL_3\SEM 2\IP\projectIP\ProiectIP\ButtonStyle\obj\Debug\ButtonStyle.pdb
