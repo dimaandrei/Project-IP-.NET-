@@ -1,0 +1,36 @@
+Chiper Ioan-Alexandru:
+	- Documentație;
+	- SRS;
+	- Help;
+	- Testare Vanzare Exception (1 metoda), Adaugă model (6 metode) și  Inferfață (2 metode).
+
+Tizu Matei-Victor:
+	- Adaugă model - funcționalitate + tratare de excepții;
+	- Adugă client - funcționalitate + tratare de excepții;
+	- Adaugă producător - funcționalitate + tratare de excepții;
+	- Generare factură - funcționalitate + tratare de excepții;
+	- Vânzare - funcționalitate + tratare de excepții;
+	- Testare Adaugă clienți (6 metode), Adaugă producător (7 metode), Modele (1 metodă), Istoric (1 metodă).
+
+Dima Raul Andrei:
+	- Proiectarea bazei de date - tabele producator, model_masina;
+	- DatabaseConnection;
+	- Proxy, Singleton;
+	- Criptare, decriptare;
+	- Autentificare;
+	- Interfața principală - funcționalitate  + design;
+	- Vânzare, Adaugă Model, Button Style - design interfață;
+	- Update Combobox - funcționalitate + tratare de excepții;
+	- Comentarii - ButtonStyle, Cryptography, DatabaseConnection, ProxyInterfaceManager, UnitTest, Vanzare;
+	- Diagrama de clase, diagrama de secvențe.
+Melinte Alexandru-Gicu:
+	- Proiectarea bazei de date - tabele client + factura;
+	- Populare baze de date;
+	- Corelare constrângeri cu baza de date;
+	- Modele - funcționalitate + design + tratare de excepții;
+	- Istoric Vânzări - funcționalitate + design + tratare de excepții;
+	- AdaugaProducator, AdaugaClient - design interfata;
+	- Comentarii - AdaugaClient, AdaugaProducator, AdaugaMasina, Interfata, Modele, Istoric;
+	- Diagrama de activități, diagrama de cazuri de utilizare.
+	
+

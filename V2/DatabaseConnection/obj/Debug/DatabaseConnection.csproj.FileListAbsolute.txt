@@ -1,9 +1,0 @@
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\bin\Debug\DatabaseConnection.dll.config
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\bin\Debug\DatabaseConnection.dll
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\bin\Debug\Oracle.ManagedDataAccess.dll
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\obj\Debug\DatabaseConnection.csprojAssemblyReference.cache
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CopyComplete
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\obj\Debug\DatabaseConnection.dll
-D:\Andrei\Facultate\AN3SEM2\IP\Melinte\projectIP\projectIP\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
